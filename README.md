@@ -1,15 +1,26 @@
 # Modul 1 
 latihan 1
-![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan1.png?raw=true)
+
+![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan1.PNG)
+
 latihan 2
-![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan2.png?raw=true)
+
+![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan2.PNG)
+
 latihan 3
+
 ![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan3.png?raw=true)
+
 latihan 4
+
 ![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan4.png?raw=true)
+
 latihan 5
+
 ![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/latihan5.png?raw=true)
+
 variabel hasil
+
 ![alt text] (https://github.com/NurulAin1/Praktikum1/blob/master/ss/variabelhasil.png?raw=true)
 
 # Modul 2
